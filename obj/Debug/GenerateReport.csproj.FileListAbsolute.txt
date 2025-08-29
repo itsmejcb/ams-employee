@@ -1,0 +1,394 @@
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\GenerateReport.exe.config
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\GenerateReport.exe
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\GenerateReport.pdb
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.PrintForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.Properties.Resources.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.csproj.GenerateResource.cache
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.csproj.CoreCompileInputs.cache
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.exe
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.pdb
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\MySqlConnector.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\MySqlConnector.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.csproj.CopyComplete
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\stdole.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.StudentSubjects_ReportViewerForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Buffers.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Memory.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Buffers.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Memory.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.BaseForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.AddStudentSubjectsForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.ManageStudentsSubjectsForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.LoginForm.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.CustomShapes.CustomTextBox.resources
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\GenerateReport.exe.manifest
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\bin\Debug\GenerateReport.application
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.exe.manifest
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.application
+C:\Users\Aleck Louise Bonete\source\repos\GenerateReport\obj\Debug\GenerateReport.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.BaseForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.CustomShapes.CustomTextBox.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.LoginForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.Properties.Resources.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.csproj.GenerateResource.cache
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\GenerateReport.exe.config
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\MySqlConnector.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\stdole.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\MySqlConnector.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.csproj.CopyComplete
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.PayrollForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.DepartmentForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.EmployeeForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\obj\Debug\GenerateReport.PositionForm.resources
+C:\Users\user\Downloads\shhh\zzzzz\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.BaseForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.CustomShapes.CustomTextBox.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.DepartmentForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.EmployeeForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.LoginForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.PayrollForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.PositionForm.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.Properties.Resources.resources
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.GenerateResource.cache
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe.config
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\MySqlConnector.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Savage.Data.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Savage.Data.MySqlClient.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Savage.OptimizedDataReader.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ZstdNet.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\stdole.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\MySql.Data.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\MySqlConnector.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.CopyComplete
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe.config
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\MySqlConnector.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Savage.Data.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Savage.Data.MySqlClient.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Savage.OptimizedDataReader.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\ZstdNet.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\stdole.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\MySql.Data.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\MySqlConnector.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.BaseForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.CustomShapes.CustomTextBox.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.DepartmentForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.EmployeeForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.LoginForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.PayrollForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.PositionForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.Properties.Resources.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.GenerateResource.cache
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.application
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.CopyComplete
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.exe
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.ViewrCRTPForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.EmptpprintForm.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.EmpntpprintForms.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.nTpSemiMontlyIncome.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.TpMontlyIncome.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.TpSemiMontlyIncome.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.nTpMonthlyIncomes.resources
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\shhh\new back up\new update haha\zzzzz - Copy (2)\obj\Debug\GenerateReport.user.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\GenerateReport.exe.config
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\GenerateReport.application
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\GenerateReport.exe
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\GenerateReport.pdb
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\MySqlConnector.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Savage.Data.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Savage.Data.MySqlClient.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Savage.OptimizedDataReader.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\ZstdNet.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\stdole.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\MySql.Data.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\MySqlConnector.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.BaseForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.CustomShapes.CustomTextBox.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.DepartmentForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.EmployeeForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.EmpntpprintForms.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.EmptpprintForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.LoginForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.nTpMonthlyIncomes.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.nTpSemiMontlyIncome.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.PayrollForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.PositionForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.Properties.Resources.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.TpMontlyIncome.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.TpSemiMontlyIncome.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.user.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.ViewrCRTPForm.resources
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.csproj.GenerateResource.cache
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.exe.manifest
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.application
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.csproj.CopyComplete
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.exe
+C:\Users\user\Downloads\AMSForEmployee-backup\AMSForEmployee-backup\obj\Debug\GenerateReport.pdb
